@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test NG frame work">
+	<test name="testng">
+		<classes>
+			<class name="com.TestNG.Amazon_fresh_valids">
+				
+			</class>
+		</classes>
+	</test>
+</suite>

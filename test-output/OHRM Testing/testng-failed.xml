@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OHRM Testing]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Add Employee(failed)">
+    <classes>
+      <class name="com.TestNG.Testng_ohrm">
+        <methods>
+          <include name="applicaionClose"/>
+          <include name="blank"/>
+          <include name="launch_Application"/>
+        </methods>
+      </class> <!-- com.TestNG.Testng_ohrm -->
+    </classes>
+  </test> <!-- Add Employee(failed) -->
+</suite> <!-- Failed suite [OHRM Testing] -->

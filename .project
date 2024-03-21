@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>java project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>BrowserDriverFiles/geckodriver.exe</name>
+			<type>1</type>
+			<location>C:/trainings/selenium automation/soft ware/geckodriver-v0.33.0-win64/geckodriver.exe</location>
+		</link>
+		<link>
+			<name>BrowserDriverFiles/msedgedriver.exe</name>
+			<type>1</type>
+			<location>C:/trainings/selenium automation/soft ware/edgedriver_win64/msedgedriver.exe</location>
+		</link>
+		<link>
+			<name>ExcelFiles/TestDataFamily.xlsx</name>
+			<type>1</type>
+			<location>C:/Users/Hp/Desktop/TestDataFamily.xlsx</location>
+		</link>
+		<link>
+			<name>Resources/AutoIT_ProfilePics/King_Virat.exe</name>
+			<type>1</type>
+			<location>C:/Users/Hp/Desktop/AUTO IT GENERATION/King_Virat.exe</location>
+		</link>
+		<link>
+			<name>Resources/AutoIT_ProfilePics/kohili.exe</name>
+			<type>1</type>
+			<location>C:/Users/Hp/Desktop/AUTO IT GENERATION/kohili.exe</location>
+		</link>
+		<link>
+			<name>Resources/AutoIT_ProfilePics/samara.exe</name>
+			<type>1</type>
+			<location>C:/Users/Hp/Desktop/AUTO IT GENERATION/samara.exe</location>
+		</link>
+		<link>
+			<name>Resources/AutoIT_ProfilePics/virat.exe</name>
+			<type>1</type>
+			<location>C:/Users/Hp/Desktop/AUTO IT GENERATION/virat.exe</location>
+		</link>
+	</linkedResources>
+</projectDescription>

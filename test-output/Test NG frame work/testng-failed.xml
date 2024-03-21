@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test NG frame work]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="testng(failed)">
+    <classes>
+      <class name="com.TestNG.Amazon_fresh_valids">
+        <methods>
+          <include name="finalstep"/>
+          <include name="fresh"/>
+        </methods>
+      </class> <!-- com.TestNG.Amazon_fresh_valids -->
+    </classes>
+  </test> <!-- testng(failed) -->
+</suite> <!-- Failed suite [Test NG frame work] -->

@@ -1,0 +1,90 @@
+2024-02-27 15:45:45,949 - Log -INFO - Launch the Browser
+2024-02-27 15:45:49,106 - Log -INFO - getting the World Clock - Time And Date Application
+2024-02-27 15:47:09,329 - Log -INFO - Syso
+2024-02-27 15:47:43,765 - Log -INFO - getting the World Clock - Time And Date Application
+2024-02-27 15:49:46,476 - Log -INFO - Syso
+2024-02-27 15:50:23,140 - Log -INFO - getting the World Clock - Time And Date Application
+2024-02-27 15:50:24,063 - Log -INFO - Close the Browser
+2024-02-27 15:53:01,182 - Log -INFO - Syso
+2024-02-27 15:53:11,829 - Log -INFO - getting the World Clock - Time And Date Application
+2024-02-27 15:59:24,763 - Log -INFO - launch the browser
+2024-02-27 16:00:07,742 - Log -INFO - close the driver
+2024-02-27 16:00:27,137 - Log -INFO - launch the browser
+2024-02-27 16:00:57,825 - Log -INFO - Syso
+2024-02-27 16:01:34,979 - Log -INFO - login the ohrm
+2024-02-27 16:01:51,383 - Log -INFO - clicks the pim
+2024-02-27 16:02:43,666 - Log -INFO - click the add employee
+2024-02-27 16:02:46,386 - Log -INFO - close the driver
+2024-02-27 16:03:05,578 - Log -INFO - getting the World Clock - Time And Date Application
+2024-02-27 16:03:50,448 - Log -INFO - Syso
+2024-02-27 16:04:26,604 - Log -INFO - getting the World Clock - Time And Date Application
+2024-02-27 16:06:01,431 - Log -INFO - Syso
+2024-02-27 16:06:52,019 - Log -INFO - getting the World Clock - Time And Date Application
+2024-02-27 16:59:19,797 - Log -INFO - Syso
+2024-02-27 17:05:39,632 - Log -INFO - Syso
+2024-02-27 17:06:25,181 - Log -INFO - getting the World Clock - Time And Date Application
+2024-02-27 17:06:25,821 - Log -INFO - Close the Browser
+2024-02-28 09:59:56,539 - Log -INFO -  number of employees :900
+2024-02-28 09:59:56,667 - Log -INFO - there are 2 units in production, 1st unit is productin unit, 2nd unit is packing unit .
+2024-02-28 09:59:56,682 - Log -INFO - total working employees in production unit:600
+2024-02-28 09:59:56,708 - Log -INFO - total working employees in :150
+2024-02-28 10:02:42,292 - Log -INFO -  number of employees :900
+2024-02-28 10:02:42,329 - Log -INFO -  number of employees :900
+2024-02-28 10:02:42,362 - Log -INFO - there are 2 units in production, 1st unit is productin unit, 2nd unit is packing unit .
+2024-02-28 10:02:42,371 - Log -INFO - total working employees in production unit:600
+2024-02-28 10:02:42,388 - Log -INFO - total working employees in :150
+2024-02-28 10:08:21,951 - Log -INFO - Prabhas
+2024-02-28 10:08:21,974 - Log -INFO - Prabhas
+2024-02-28 10:08:22,012 - Log -INFO - PruthviRaj
+2024-02-28 10:08:22,021 - Log -INFO - PruthviRaj
+2024-02-28 10:08:22,025 - Log -INFO - Total_MainCharacterArtists10
+2024-02-28 10:08:22,042 - Log -INFO - Total_MainCharacterArtists10
+2024-02-28 10:42:30,340 - Log -INFO - Prabhas
+2024-02-28 10:42:30,392 - Log -INFO - PruthviRaj
+2024-02-28 10:42:30,399 - Log -INFO - Total_MainCharacterArtists10
+2024-02-28 10:43:52,824 - Log -INFO - it displays the valid credintails
+2024-02-28 10:44:05,199 - Log -INFO - clicks the pim
+2024-02-28 10:44:20,257 - Log -INFO - added employee viswamithra
+2024-02-28 10:44:22,216 - Log -INFO - logout the ohrm
+2024-02-28 11:38:34,113 - Log -INFO - it displays the valid credintails
+2024-02-28 11:38:38,682 - Log -INFO - clicks the pim
+2024-02-28 11:38:46,035 - Log -INFO - added employee viswamithra
+2024-02-28 11:38:47,052 - Log -INFO - logout the ohrm
+2024-02-29 11:43:00,346 - Log -INFO - 
+2024-02-29 11:44:28,124 - Log -INFO - 
+2024-02-29 11:44:40,930 - Log -INFO - Close the Browser
+2024-02-29 11:46:14,019 - Log -INFO - 
+2024-02-29 11:46:25,315 - Log -INFO - Close the Browser
+2024-02-29 11:50:23,794 - Log -INFO - 
+2024-02-29 11:50:31,065 - Log -INFO - Close the Browser
+2024-02-29 11:53:30,199 - Log -INFO - 
+2024-02-29 11:53:37,387 - Log -INFO - Close the Browser
+2024-03-02 14:14:56,014 - Log -INFO - launche browser
+2024-03-02 14:18:11,641 - Log -INFO - launche browser
+2024-03-02 14:18:11,667 - Log -INFO - launche browser
+2024-03-02 14:18:50,677 - Log -INFO - launche browser
+2024-03-02 14:19:08,558 - Log -INFO -  ohrm login
+2024-03-02 14:19:15,800 - Log -INFO - click the admin
+2024-03-02 14:19:19,040 - Log -INFO - move the job option
+2024-03-02 14:19:20,753 - Log -INFO - move the work shift
+2024-03-02 14:19:20,897 - Log -INFO - clicks the add
+2024-03-02 14:19:24,140 - Log -INFO - clicks the shift name
+2024-03-02 14:19:24,242 - Log -INFO - clicks the shift
+2024-03-02 14:19:24,559 - Log -INFO - clicks the shift to fpr mention the timing
+2024-03-02 14:19:27,874 - Log -INFO - clicks the 2nd value
+2024-03-02 14:19:27,968 - Log -INFO - clicks the trivikram
+2024-03-02 14:19:31,186 - Log -INFO - clicks 38
+2024-03-02 14:19:34,375 - Log -INFO - clicks the lokesh kanagaraj
+2024-03-02 14:19:37,529 - Log -INFO - deselect 38
+2024-03-02 14:19:40,691 - Log -INFO - deselect 26
+2024-03-02 14:19:43,789 - Log -INFO - deselect
+2024-03-02 14:19:46,952 - Log -INFO - clicks the value 20
+2024-03-02 14:19:50,053 - Log -INFO - clicks the Ar Muruga das -- --
+2024-03-02 14:19:53,356 - Log -INFO - clicks the 3
+2024-03-02 14:19:56,630 - Log -INFO - clicks the Rajini -- -- -- --
+2024-03-02 14:19:59,784 - Log -INFO - clicks the value 67 it is kamal
+2024-03-02 14:20:02,935 - Log -INFO - clicks the add assign 
+2024-03-02 14:20:06,071 - Log -INFO - clicks the save 
+2024-03-02 14:20:09,455 - Log -INFO - Close the Browser
+2024-03-03 10:49:25,275 - Log -INFO - launche browser
+2024-03-03 10:50:02,189 - Log -INFO - navigates the ohrm
